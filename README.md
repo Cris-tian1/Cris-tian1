@@ -35,7 +35,6 @@
 - Exploring certifications (CompTIA Security+/Google Cybersecurity Certificate)
 
 <h2>📫Connect with me:</h2>
-
 [linkedin]: https://www.linkedin.com/in/cristian-lopez-63789b1ab/
 
 <!--
